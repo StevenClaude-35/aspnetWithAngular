@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ProductiveDev"
+    }
+  },
+  "defaultProject": "ProductiveDev",
+  "cli": {
+    "analytics": "fe373b8b-8636-4e59-8246-98748ad74926"
+  }
 }
